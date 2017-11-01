@@ -9,6 +9,8 @@
 #include <xc.h>
 #include "I2C.h"
 
+//modificado desde mplabx
+
 void main(void) {
     
 }
